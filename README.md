@@ -1,2 +1,2 @@
 # vidhya-setu-otp-server
-Creat a school Account.
+Creat a school Account. 
